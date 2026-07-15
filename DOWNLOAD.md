@@ -6,7 +6,7 @@ Download the latest version of GloxWallpaper from the link below:
 
 MediaFire:
 
-https://www.mediafire.com/file/481zbxf2wynwjy8/Glox+Wallpaper.zip/file
+[https://www.mediafire.com/file/481zbxf2wynwjy8/Glox+Wallpaper.zip/file](https://www.mediafire.com/file/481zbxf2wynwjy8/Glox+Wallpaper.zip/file)
 
 
 
@@ -33,3 +33,5 @@ GloxWallpaper is distributed as a standalone executable.
 
 The application may show a Windows SmartScreen warning because it is not code-signed. 
 Select "More Info" → "Run Anyway" if you trust the source.
+
+Note : This Project is Made through AI Assistance. 
