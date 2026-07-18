@@ -49,3 +49,8 @@ Current collections include:
 1. Download the latest version from the download page.
 2. Extract the ZIP file.
 3. Run:
+
+## 🤖 Built with ChatGPT & Codex
+
+GloxWallpaper was developed with the help of **ChatGPT** and **Codex** throughout the development process. ChatGPT assisted with brainstorming features, refining the user interface, debugging issues, improving the project structure, and writing documentation. Codex accelerated development by helping generate and refine Python code, suggest implementation approaches, and resolve technical challenges. Together, they acted as AI development assistants, allowing ideas to move from concept to a polished, open-source desktop application more efficiently.
+
