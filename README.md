@@ -2,7 +2,7 @@
 
 
 
-![GloxWallpaper Banner2](bannermain.PNG)
+![GloxWallpaper Banner2](bannermain.png)
 
 
 
