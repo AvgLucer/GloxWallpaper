@@ -1,5 +1,11 @@
 # 🖼️ GloxWallpaper
 
+
+
+![GloxWallpaper Banner2](bannermain.PNG)
+
+
+
 ![GloxWallpaper Banner](banner.PNG)
 
 A lightweight **offline wallpaper engine for Windows** that automatically changes your desktop wallpaper from a curated collection of wallpapers.
